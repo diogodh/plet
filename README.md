@@ -1,6 +1,6 @@
 ## Pulse Oximetry Plethysmographic Curve Detector
 
-This repository contains two Google Colab Notebook files designed for use with a GPU instance on Google Colab (https://colab.research.google.com/):
+This repository contains two main files designed for use with a GPU instance on Google Colab (https://colab.research.google.com/):
 
 - **Diogo_plet_object_detector.ipynb:** This notebook was utilized to create and test the model for detecting pulse oximetry plethysmographic curves.
 - **Diogo_plet_detect.ipynb:** Specifically for testing the trained model.
